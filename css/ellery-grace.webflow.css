@@ -439,6 +439,15 @@ li {
   height: 130%;
 }
 
+.project-detail-title {
+  font-family: Outfit, sans-serif;
+  line-height: 150%;
+  font-weight: 600;
+  font-size: 1.5em;
+  color: #f1dca6;
+  margin-bottom: 0.175em;
+}
+
 .proejct-detail {
   font-family: Switzer, sans-serif;
   font-size: 1.25em;
@@ -933,6 +942,15 @@ li {
     font-size: 16px;
   }
 
+  .project-detail-title {
+    font-family: Outfit, sans-serif;
+    line-height: 150%;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f1dca6;
+    margin-bottom: 8px;
+  }
+
   .about-p-div {
     width: 100%;
   }
@@ -1102,12 +1120,12 @@ li {
     left: 0%;
     top: -10px;
     width: 34em;
-    height: 50em;
+    height: 62em;
   }
 
   .elem-over-video {
     left: -12%;
-    bottom: -14%;
+    bottom: -32%;
   }
 
   .section.trust-section {
